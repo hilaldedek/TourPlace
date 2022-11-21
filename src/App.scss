@@ -1,0 +1,13 @@
+@import './scss/reset','./scss/mixins','./scss/variables';
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+// font-family: 'Nunito', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+// font-family: 'Abril Fatface', cursive;
+body{
+    background-color: $backgroundColor;
+    font-family: 'Abril Fatface', cursive;
+    
+}
+p{
+    font-family: 'Nunito', sans-serif;
+}
